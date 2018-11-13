@@ -4,11 +4,7 @@
 <head>
   <title>Somi's Processing</title>
   
-  <style>
-  p {
-   color : lightBlue;
-  }
-  </style>
+ 
   </<head>
   
 <body>
