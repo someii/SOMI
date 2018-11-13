@@ -1,26 +1,13 @@
 
-<html>
-  
-<head>
-  <title>Somi's Processing</title>
-  
- 
-  </<head>
-  
-<body>
-  <h4>글로벌미디어학부 제 소개 페이지입니다!</h4>
+   <h4>글로벌미디어학부 제 소개 페이지입니다!</h4>
    <p> 안녕하세요! 저는 현재 숭실대학교 글로벌미디어학부에 재학 중인 민소미입니다.  </p>
    <p> 저는 98년생이고 경기도 동두천에서 살다가 작년에 서울로 이사왔습니다.  </p>
    <p> 게임하는 것을 좋아해서 다음에 졸업을 한다면 게임 회사에 취업해 게임의 UI를 만들고 싶습니다.</p>
    <p> 저는 웃음이 많고 단순합니다.</p>
    <p> 제 페이지에 와주셔서 감사합니다^0^</p>
    <p> 
-    <div class="mitem" id="m1" > <a href="https://someii.github.io/HOME/index.html" > HOME </a> </div>
-	<div><a href="" target="_blank" > SOMI </a></div>
+   <div class="mitem" id="m1" > <a href="https://someii.github.io/HOME/index.html" > HOME </a> </div>
+   <div><a href="" target="_blank" > SOMI </a></div>
    <div class="mitem" id="m3"> <a href="https://someii.github.io/somProcessingOne/index.html" target="_blank"> No.1 </a></div>
    <div class="mitem" id="m3"> <a href="https://someii.github.io/somProcessingTwo/index.html" target="_blank"> No.2 </a></div>
-   
-   </div>
-</div>
-</body>
-</html>
+ 
